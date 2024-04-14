@@ -76,16 +76,11 @@ ThreadpoolHandler(__in PTHREADPOOL_INFO ThreadPoolInfo)
 
 	while (TRUE) {
 
-		pEnterCriticalSection(&ThreadPoolInfo->CriticalSection);
-
-
 		PTASK_INFO TaskInfo = TAILQ_FIRST(&ThreadPoolInfo->TaskList);
 		if (!TaskInfo) {
-
-			pLeaveCriticalSection(&ThreadPoolInfo->CriticalSection);
-			pSleep(5000);
+			LeaveCriticalSection(&ThreadPoolInfo->CriticalSection);
+			Sleep(5000);
 			continue;
-
 		}
 
 		TAILQ_REMOVE(&ThreadPoolInfo->TaskList, TaskInfo, Entries);
