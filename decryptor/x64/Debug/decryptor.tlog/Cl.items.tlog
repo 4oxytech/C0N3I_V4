@@ -1,0 +1,9 @@
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\chacha20\chacha.c;C:\Users\admin-z10\Desktop\conti_v3\decryptor\x64\Debug\chacha.obj
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\decryptor.cpp;C:\Users\admin-z10\Desktop\conti_v3\decryptor\x64\Debug\decryptor.obj
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\filesystem\disks.cpp;C:\Users\admin-z10\Desktop\conti_v3\decryptor\x64\Debug\disks.obj
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\filesystem\search.cpp;C:\Users\admin-z10\Desktop\conti_v3\decryptor\x64\Debug\search.obj
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\global\global_parameters.cpp;C:\Users\admin-z10\Desktop\conti_v3\decryptor\x64\Debug\global_parameters.obj
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\main.cpp;C:\Users\admin-z10\Desktop\conti_v3\decryptor\x64\Debug\main.obj
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\memory.cpp;C:\Users\admin-z10\Desktop\conti_v3\decryptor\x64\Debug\memory.obj
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\network_scanner\network_scanner.cpp;C:\Users\admin-z10\Desktop\conti_v3\decryptor\x64\Debug\network_scanner.obj
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\threadpool\threadpool.cpp;C:\Users\admin-z10\Desktop\conti_v3\decryptor\x64\Debug\threadpool.obj

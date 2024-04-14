@@ -1,0 +1,14 @@
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\antihooks\antihooks.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\antihooks.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\api\getapi.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\getapi.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\api\hash.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\hash.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\chacha20\chacha.c;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\chacha.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\cryptor.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\filesystem\disks.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\disks.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\filesystem\search.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\search.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\global\global_parameters.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\global_parameters.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\logs\logs.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\logs.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\main.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\main.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\memory.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\memory.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\network_scanner\network_scanner.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\network_scanner.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\prockiller\prockiller.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\prockiller.obj
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\threadpool\threadpool.cpp;C:\Users\admin-z10\Desktop\conti_v3\cryptor\x64\Release\threadpool.obj

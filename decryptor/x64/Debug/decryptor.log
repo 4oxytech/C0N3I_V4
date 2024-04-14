@@ -1,0 +1,16 @@
+﻿  chacha.c
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\chacha20\chacha.c(90,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\chacha20\chacha.c(180,31): warning C4018: '<': signed/unsigned mismatch
+  decryptor.cpp
+  disks.cpp
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\filesystem\disks.cpp(21,26): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  search.cpp
+  global_parameters.cpp
+  main.cpp
+  memory.cpp
+  network_scanner.cpp
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\network_scanner\network_scanner.cpp(94,17): warning C4101: 'InAddr': unreferenced local variable
+  threadpool.cpp
+C:\Users\admin-z10\Desktop\conti_v3\decryptor\threadpool\threadpool.cpp(269,39): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  Generating Code...
+  decryptor.vcxproj -> C:\Users\admin-z10\Desktop\conti_v3\x64\Debug\decryptor.exe

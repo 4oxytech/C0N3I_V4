@@ -1,0 +1,107 @@
+﻿cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-sub'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-sub_loop=3'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-bcf'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-bcf_loop=3'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-bcf_prob=40'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-fla'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-split'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-split_num=3'
+  antihooks.cpp
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\antihooks\antihooks.cpp(251,20): warning C4244: '=': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\antihooks\antihooks.cpp(248,11): warning C4101: 'H': unreferenced local variable
+  getapi.cpp
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\mrph.h(75,12): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+  (compiling source file 'api/getapi.cpp')
+  
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\mrph.h(75,12): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  (compiling source file 'api/getapi.cpp')
+  
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\api\getapi.cpp(239,13): warning C4244: 'argument': conversion from 'DWORDLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\api\getapi.cpp(260,12): warning C4244: 'argument': conversion from 'DWORDLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\api\getapi.cpp(495,12): warning C4244: 'argument': conversion from 'const INT_PTR' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\api\getapi.cpp(497,12): warning C4244: 'argument': conversion from 'const INT_PTR' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\api\getapi.cpp(499,12): warning C4244: 'argument': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\api\getapi.cpp(587,14): warning C4244: 'argument': conversion from 'DWORDLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\api\getapi.cpp(663,14): warning C4244: 'argument': conversion from 'DWORDLONG' to 'int', possible loss of data
+  hash.cpp
+  chacha.c
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\chacha20\chacha.c(90,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\chacha20\chacha.c(180,31): warning C4018: '<': signed/unsigned mismatch
+  cryptor.cpp
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\mrph.h(75,12): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+  (compiling source file 'cryptor.cpp')
+  
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\mrph.h(75,12): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  (compiling source file 'cryptor.cpp')
+  
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(114,19): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(628,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(924,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(928,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(944,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(955,19): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(993,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(996,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1001,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1004,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1009,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1012,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1017,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1020,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1025,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1028,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1033,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1036,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1041,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1044,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1049,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1052,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1057,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1060,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1065,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1068,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1073,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1076,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1087,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1096,20): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1102,14): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1105,14): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1120,14): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1130,20): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1167,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1171,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1181,13): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\cryptor.cpp(1190,19): warning C4244: 'argument': conversion from 'LONGLONG' to 'int', possible loss of data
+  disks.cpp
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\filesystem\disks.cpp(24,27): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  search.cpp
+  global_parameters.cpp
+  logs.cpp
+  main.cpp
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\mrph.h(75,12): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\mrph.h(75,12): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\main.cpp(264,12): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\main.cpp(272,13): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\main.cpp(278,13): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\main.cpp(288,13): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\main.cpp(294,13): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+  memory.cpp
+  network_scanner.cpp
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\network_scanner\network_scanner.cpp(91,17): warning C4101: 'InAddr': unreferenced local variable
+  prockiller.cpp
+  threadpool.cpp
+C:\Users\admin-z10\Desktop\conti_v3\cryptor\threadpool\threadpool.cpp(269,40): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  Generating Code...
+  cryptor.vcxproj -> C:\Users\admin-z10\Desktop\conti_v3\x64\Debug\cryptor.exe
